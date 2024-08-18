@@ -46,3 +46,4 @@ customer         | customer_id
 ![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%202.5.png)
 ![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%202.6.png)
 ![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%202.7.png)
+![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%202.1.1.png)
