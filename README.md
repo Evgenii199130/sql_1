@@ -29,7 +29,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%201.png)
 ![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%202.png)
 ![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%203.png)
-![1](https://github.com/Evgenii199130/sql_1/blob/main/scrin/sql%204.png)
+![1]()
 
 Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
